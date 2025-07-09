@@ -1,4 +1,4 @@
-module CLIUtils
+module CLIUtilsPlus
   module Logger
     def self.log_info(message)
       puts "[INFO #{Time.now.strftime('%H:%M:%S')}] #{message}"

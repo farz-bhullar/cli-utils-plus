@@ -1,4 +1,4 @@
-module CLIUtils
+module CLIUtilsPlus
   module Prompt
     def self.ask(message, default = nil)
       print "#{message}"

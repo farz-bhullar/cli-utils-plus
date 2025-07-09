@@ -1,4 +1,4 @@
-module CLIUtils
+module CLIUtilsPlus
   module Color
     COLORS = {
       red:    31,

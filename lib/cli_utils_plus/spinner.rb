@@ -1,4 +1,4 @@
-module CLIUtils
+module CLIUtilsPlus
   class Spinner
     FRAMES = %w[| / - \\]
 
